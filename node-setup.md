@@ -59,9 +59,8 @@ cd rusk-wallet0.12.0-linux-x64/
 * dün CPK ile işimiz vardı, bugün .KEY ile.
 * .key dosyasını masa üstüne KOPYALIYORUZ
 * Masaüstünde ki dosyanın adını: `Consensus.keys` yapıyoruz. 
-* DİKKAT: .key değil, .keys.. iyi okuyun arkadaşlar
+* DİKKAT: .key değil, .keys.. 
 
-![image](https://user-images.githubusercontent.com/101149671/202683078-1e8f33e8-a280-49a7-8dd7-d85d608c39d1.png)
 
 ## Erişim izni:
 
