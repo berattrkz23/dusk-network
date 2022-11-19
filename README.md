@@ -43,7 +43,6 @@ cd rusk-wallet0.12.0-linux-x64/
 * Şifreyi giriyoruz ve bize şunları veriyor:
 * sonu .key ile biten ve .cpk ile biten adresler.. bunları kaydediyoruz bir yere.
 * Daha sonra form dolduruyoruz: [form linki](https://docs.google.com/forms/d/e/1FAIpQLScxABRnszbBEaTZAIg2TwfJVIq0kRggy8QK2MRBTO7vuyP_Ug/viewform)
-* bende doldurmadan yazdım hızlıca bu kadar detaylı oldu.
 
 
 
