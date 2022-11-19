@@ -4,8 +4,6 @@
 
 <h1 align="center"> Selamlar arkadaşlar, Dusk ağında dün form doldurmuştuk ve tokenler biraz önce geldi, şimdi nodumuzu kuralım </h1>
 
-## Formu doldurmadıysan: https://github.com/ruesandora/dusk-network
-
 ## En önemli konu sistem gereksinimleri:
 
 * Kolay kısım:
@@ -20,14 +18,12 @@ lsb_release -r
 * Sorun olan kısım `22.04 Ubuntu version` gerekiyor.
 * Bu herkeste olmayabilir, bunun için yeni sunucu gerekiyor. (genellikle 18 veya 20 kullanıyoruz)
 * İsteyen denesin, ubuntu versionu 22 olmayan 2 tane farklı sunucuda denedim, node çalışmıyor.
-* Ben Hetznerin 3 euroluk sunucusunu kullandım, küçük nodelarda hep hetzner kullanıyorum, sanırım contaboyu tamamen bıraktım.
-* Eğer şu an satın almaya müsait değilseniz ücretsiz nasıl alacağınızı bu floodda anlattım: [Link](https://forum.rues.info/index.php?threads/sunucular-hakkinda-ve-tavsiye-olmayan-fikirlerim.2481/)
+
 
 ![image](https://user-images.githubusercontent.com/101149671/202677911-bac3fa2f-dd34-4589-9d3c-8f6c6f050266.png)
 
 ## Sunucuyu çözdüyseniz, sıfırdan okuşturacağınız için cüzdanı taşımak gerekli, burdan başlayalım:
 
-* Hali hazırda ubuntu 22 versionlu sunucuna kurduysan [Buradan başla](https://github.com/ruesandora/dusk-network/blob/main/node-setup.md#%C5%9Fimdi-buras%C4%B1-kar%C4%B1%C5%9F%C4%B1k-arkada%C5%9Flar-dikkatli-okumayana-k%C3%BCserim)
 ```
 sudo apt update
 ```
